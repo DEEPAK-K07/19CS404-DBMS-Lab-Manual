@@ -308,3 +308,8 @@ INSERT INTO Products(ProductID,Name,Category,Stock) VALUES (108,'Wireless Earbud
 
 ## RESULT
 Thus, the SQL queries to implement different types of constraints and DDL commands have been executed successfully.
+
+
+## Module 1 Score 
+
+<img width="1309" height="132" alt="image" src="https://github.com/user-attachments/assets/4bb914c6-f83f-4721-bb67-647d06b13b92" />
