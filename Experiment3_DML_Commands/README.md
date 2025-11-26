@@ -1,6 +1,6 @@
 # Experiment 3: DML Commands
-## Name: Keerthivasan K S
-## Reg.no: 212224230120
+## Name: DEEPAK K
+## Reg.no: 212224060053
 ## AIM
 To study and implement DML (Data Manipulation Language) commands.
 
